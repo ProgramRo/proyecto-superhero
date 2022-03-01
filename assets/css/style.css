@@ -1,0 +1,15 @@
+.title-header {
+    font-family: 'Fredericka the Great', cursive;
+}
+.barra-code-1 {
+    font-family: 'Libre Barcode 39', cursive;
+}
+.sub-header {
+    font-family: 'Chelsea Market', cursive;
+}
+.bg-navbar {
+    background-color: #8B0000;
+}
+body {
+    background-color: #8b000027;
+}
